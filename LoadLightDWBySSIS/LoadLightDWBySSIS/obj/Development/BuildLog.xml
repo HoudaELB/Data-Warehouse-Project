@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>LoadLightDWBySSIS</Name>
-    <LastWriteTime>2021-04-26T01:15:54.5615803Z</LastWriteTime>
+    <LastWriteTime>2021-04-26T02:08:27.9625419Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>LoadLightDWBySSIS.dtsx</Name>
-      <LastWriteTime>2021-04-26T01:52:27.2957789Z</LastWriteTime>
+      <LastWriteTime>2021-04-26T05:21:50.9278933Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
