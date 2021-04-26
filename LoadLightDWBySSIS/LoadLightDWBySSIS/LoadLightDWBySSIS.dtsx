@@ -11,8 +11,8 @@
   DTS:LocaleID="1036"
   DTS:ObjectName="LoadLightDWBySSIS"
   DTS:PackageType="5"
-  DTS:VersionBuild="26"
-  DTS:VersionGUID="{CDE07542-4A70-4424-AAAF-526DC01147B8}">
+  DTS:VersionBuild="27"
+  DTS:VersionGUID="{98A97559-F874-4A35-833C-0971B0020645}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
