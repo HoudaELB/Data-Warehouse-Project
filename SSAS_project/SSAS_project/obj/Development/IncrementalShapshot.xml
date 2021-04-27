@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -19,42 +19,42 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>hHJZK9L4NvkPGwVE1a3tmhyv5+Q=4/26/2021 4:24:27 PM4/26/2021 4:24:26 PM</TimeStamp>
+        <TimeStamp>hHJZK9L4NvkPGwVE1a3tmhyv5+Q=4/26/2021 6:02:20 PM4/26/2021 6:02:20 PM</TimeStamp>
         <ID>
           <String>LIGHTADVENTUREWORKSDW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>c7UECKcuSELm6pZ5ioZJPE1LM24=4/26/2021 4:24:46 PM4/26/2021 4:24:46 PM</TimeStamp>
+        <TimeStamp>c7UECKcuSELm6pZ5ioZJPE1LM24=4/26/2021 6:02:20 PM4/26/2021 6:02:20 PM</TimeStamp>
         <ID>
           <String>LIGHTADVENTUREWORKSDW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>ke+NO9V1DEFYTGvTyXVSmbT720I=4/26/2021 4:31:56 PM4/26/2021 4:28:40 PM</TimeStamp>
+        <TimeStamp>ke+NO9V1DEFYTGvTyXVSmbT720I=4/26/2021 6:02:20 PM4/26/2021 6:02:20 PM</TimeStamp>
         <ID>
           <String>Products</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>/S0P0dThSTYvqRGm/mU9zMqBAUw=4/26/2021 4:34:46 PM4/26/2021 4:34:46 PM</TimeStamp>
+        <TimeStamp>/S0P0dThSTYvqRGm/mU9zMqBAUw=4/26/2021 6:02:19 PM4/26/2021 6:02:19 PM</TimeStamp>
         <ID>
           <String>Dates</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>oYWKbdF+s/J8IlO0eHG6STera4I=4/26/2021 4:46:19 PM4/26/2021 4:46:19 PM</TimeStamp>
+        <TimeStamp>oYWKbdF+s/J8IlO0eHG6STera4I=4/26/2021 6:02:19 PM4/26/2021 6:02:19 PM</TimeStamp>
         <ID>
           <String>Customers</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>/KIDRYy2Gfodx0LO+NlKOc1P63s=4/26/2021 4:48:05 PM4/26/2021 4:48:05 PM1Vh6Sx/5+WhrOtwZ8nT7RA/vve4=4/26/2021 4:48:05 PM4/26/2021 4:48:05 PM</TimeStamp>
+        <TimeStamp>/KIDRYy2Gfodx0LO+NlKOc1P63s=4/26/2021 6:02:19 PM4/26/2021 6:02:19 PM1Vh6Sx/5+WhrOtwZ8nT7RA/vve4=4/26/2021 6:02:20 PM4/26/2021 6:02:20 PM</TimeStamp>
         <ID>
           <String>LIGHTADVENTUREWORKSDW</String>
         </ID>
@@ -62,7 +62,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>IPPYPxXsx/Cy3cJ9hOVC2GGA2tU=4/26/2021 4:24:07 PM4/26/2021 4:24:06 PM</TimeStamp>
+      <TimeStamp>IPPYPxXsx/Cy3cJ9hOVC2GGA2tU=4/26/2021 6:02:20 PM4/26/2021 6:02:20 PM</TimeStamp>
       <ID>
         <String>SSAS_project</String>
       </ID>
@@ -70,6 +70,6 @@
     <Granularity>Coarse</Granularity>
   </Snapshot>
   <AssemblyLocations />
-  <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2021-04-26T16:48:20.126667Z</LastDeployed>
+  <ProcessingComplete>false</ProcessingComplete>
+  <LastDeployed>2021-04-26T18:09:13.72Z</LastDeployed>
 </DeploymentSnapshot>
